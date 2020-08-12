@@ -107,8 +107,6 @@ Calcule la sumatoria de 1 hasta n con un metodo matemático directo.
 - **10%** - Se respetenan los nombres de las funciones en la aplicación.
 - **10%** - Especifican en cada uno de las funcionalidades **la complejidad computacional** como parte de su documentación.
 
-<br>
-
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 Entrega los archivos correspondientes de la actividad, en la sección correspondiente dentro de esta plataforma.
 
