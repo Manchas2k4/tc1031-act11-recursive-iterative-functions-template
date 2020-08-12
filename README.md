@@ -3,7 +3,7 @@
 <tbody>
 <tr>
 <td style="width: 100%;">
-## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span> <br>
+##¿Qué tengo que hacer?<br>
 Realiza una aplicación en C++ en <span style="text-decoration-line: underline;">forma individual</span>,&nbsp; que calculé la sumatora de **1 hasta n** y llame a tres funciones:
 <table style="height: 10px; width: 0%; border-collapse: collapse; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;" border="1">
 <tbody>
