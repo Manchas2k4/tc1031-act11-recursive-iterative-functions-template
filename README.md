@@ -103,7 +103,7 @@ Calcule la sumatoria de 1 hasta n con un metodo matemático directo.
     - **Insuficiente (25%)** - pasa correctamente menos del 50% de los casos de prueba.
     
 
-- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](https://experiencia21.tec.mx/courses/74123/files/16199560/download?wrap=1 "Estandar Programacion.pdf")</span>
+- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
 - **10%** - Se respetenan los nombres de las funciones en la aplicación.
 - **10%** - Especifican en cada uno de las funcionalidades **la complejidad computacional** como parte de su documentación.
 
