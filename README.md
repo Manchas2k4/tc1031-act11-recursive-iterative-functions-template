@@ -1,10 +1,8 @@
 # Act 1.1 - Funciones Iterativas, Recursivas y su análisis de Complejidad
-<table style="width: 100%; border-collapse: collapse; background-color: rgb(241, 241, 241); margin-bottom: 20px;" border="0" cellspacing="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 100%;">
-##¿Qué tengo que hacer?<br>
+
+## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span> 
 Realiza una aplicación en C++ en <span style="text-decoration-line: underline;">forma individual</span>,&nbsp; que calculé la sumatora de **1 hasta n** y llame a tres funciones:
+
 <table style="height: 10px; width: 0%; border-collapse: collapse; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;" border="1">
 <tbody>
 <tr style="height: 24px;">
@@ -32,15 +30,15 @@ Calcule la sumatoria de 1 hasta n con un metodo iterativo.
 </tr>
 </tbody>
 </table>
+
 <br>
+
 <table style="height: 10px; width: 0%; border-collapse: collapse; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;" border="1">
 <tbody>
 <tr style="height: 24px;">
 <td style="width: 30%; height: 10px; background-color: rgb(25, 99, 169);" rowspan="5"><span style="font-size: 18pt; color: rgb(255, 255, 255);">sumaRecursiva</span></td>
 <td style="width: 0px; height: 0px; background-color: rgb(0, 139, 247);">Descripción</td>
 <td style="width: 0px; height: 0px; background-color: rgb(183, 219, 255);">
-
-
 Calcule la sumatoria de 1 hasta n con un metodo recursivo.
 </td>
 </tr>
@@ -62,7 +60,9 @@ Calcule la sumatoria de 1 hasta n con un metodo recursivo.
 </tr>
 </tbody>
 </table>
+
 <br>
+
 <table style="height: 10px; width: 0%; border-collapse: collapse; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;" border="1">
 <tbody>
 <tr style="height: 24px;">
@@ -90,11 +90,9 @@ Calcule la sumatoria de 1 hasta n con un metodo matemático directo.
 </tr>
 </tbody>
 </table>
+
 <br>Todas las funcionalidades deberán de estar correctamente alineadas y documentadas.&nbsp; Recuerda que todas las funcionalidades deberán pasar exitosamente todas las pruebas. Como parte de la documentación deberá incluirse la complejidad de cada una de ellas.
-<table style="width: 100%; border-collapse: collapse; background-color: rgb(241, 241, 241); margin-bottom: 20px;" border="0" cellspacing="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 100%;">
+
 ## <span style="color: rgb(26, 99, 169);">**¿Bajo qué criterios se evalúa mi evidencia?**</span>
 
 - **70%** - Para cada una de las funcionalidades se evaluará:
@@ -109,25 +107,8 @@ Calcule la sumatoria de 1 hasta n con un metodo matemático directo.
 - **10%** - Se respetenan los nombres de las funciones en la aplicación.
 - **10%** - Especifican en cada uno de las funcionalidades **la complejidad computacional** como parte de su documentación.
 
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
+<br>
 
-&nbsp;
-
-<table style="width: 100%; border-collapse: collapse; background-color: rgb(241, 241, 241); margin-bottom: 20px;" border="0" cellspacing="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 100%;">
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 Entrega los archivos correspondientes de la actividad, en la sección correspondiente dentro de esta plataforma.
-</td>
-</tr>
-</tbody>
-</table>
 
