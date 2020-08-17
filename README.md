@@ -108,5 +108,5 @@ Calcule la sumatoria de 1 hasta n con un metodo matemático directo.
 - **10%** - Especifican en cada uno de las funcionalidades **la complejidad computacional** como parte de su documentación.
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
-Entrega los archivos correspondientes de la actividad, en la sección correspondiente dentro de esta plataforma.
+Entrega los archivos correspondientes de la actividad, en el sitio de Github. Coloca la liga del repositorio en Canvas.
 
