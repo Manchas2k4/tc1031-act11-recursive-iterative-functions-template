@@ -8,6 +8,7 @@
 *.so
 *.out
 runTest*
+app
 
 # Packages #
 ############
