@@ -1,7 +1,7 @@
 all: clean runTest1
 
 runTest1:
-	g++ test1.cpp -o runTest1
+	g++ -Wall -Wextra -Wpedantic -std=c++11 test1.cpp -o runTest1
 
 clean:
 ifneq ("$(wildcard ./runTest1)","")
