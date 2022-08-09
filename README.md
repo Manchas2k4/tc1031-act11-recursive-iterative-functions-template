@@ -2,7 +2,7 @@
 # Act 1.1 - Funciones Iterativas, Recursivas y su análisis de Complejidad
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
-En este repositorio de trabajo, encontrarás el archivo "activity.h". En este archivo deberás desarrollar la implementación del problema presentado en esta actividad.  En la parte superior del archivo coloca, en comentarios, tus datos. Por ejemplo:
+En este repositorio de trabajo encontrarás el archivo "activity.h". En este archivo deberás desarrollar la implementación del problema presentado en esta actividad.  En la parte superior del archivo coloca, en comentarios, tus datos. Por ejemplo:
 ```
 // =========================================================
 // File: activity.h
