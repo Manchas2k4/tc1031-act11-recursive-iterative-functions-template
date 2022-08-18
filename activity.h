@@ -14,6 +14,7 @@
 //
 // @param n	The maximum limit of the sum.
 // @return	The result of the addition from 1 to n.
+// @Complexity	??
 // =================================================================
 unsigned int sumaIterativa(unsigned int n) {
 	return 0;
@@ -25,6 +26,7 @@ unsigned int sumaIterativa(unsigned int n) {
 //
 // @param n	The maximum limit of the sum.
 // @return	The result of the addition from 1 to n.
+// @Complexity	??
 // =================================================================
 unsigned int sumaRecursiva(unsigned int n) {
 	return 0;
@@ -36,6 +38,7 @@ unsigned int sumaRecursiva(unsigned int n) {
 //
 // @param n	The maximum limit of the sum.
 // @return	The result of the addition from 1 to n.
+// @Complexity	??
 // =================================================================
 unsigned int sumaDirecta(unsigned int n) {
 	return 0;
