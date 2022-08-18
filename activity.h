@@ -31,7 +31,7 @@ unsigned int sumaRecursiva(unsigned int n) {
 }
 
 // =================================================================
-// sumaRecursiva. Calculate the sum from 1 to n with a mathematical
+// sumaDirecta. Calculate the sum from 1 to n with a mathematical
 // method.
 //
 // @param n	The maximum limit of the sum.
