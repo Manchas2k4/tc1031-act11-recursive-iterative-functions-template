@@ -124,5 +124,8 @@ Este comando compilará tu código y generará una serie de archivos de pruebas 
 - **10%** - Se respetenan los nombres de las funciones en la aplicación.
 - **10%** - Especifican en cada uno de las funcionalidades **la complejidad computacional** como parte de su documentación.
 
+## <span style="color: rgb(26, 99, 169);">**¿Cómo la entrego?**</span>
+Crea un archivo Zip de tu repositorio. Asegúrate de que todos los archivos estén incluidos.
+
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
-Cuando hayas pasado todas las pruebas, recuerda publicar el código en tu repositorio (*git push*).
+Sube el archivo en el espacio definido para esta actividad en Canvas.
